@@ -1,0 +1,22 @@
+form {
+	display: inline-block;
+	float:left;
+}
+
+#container {
+	min-height: 216px;
+	/*overflow: auto;*/
+}
+
+.background {
+	border: 2px solid black;
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin: 8px;
+}
+
+.note_text {
+	padding: 15px;
+	/*overflow: auto;	*/
+}
